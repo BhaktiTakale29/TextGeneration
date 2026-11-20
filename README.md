@@ -9,7 +9,7 @@ Word-level text generation model built with TensorFlow/Keras. Given a seed phras
 4. Generate text word by word from a seed phrase
 
 ## Run
-pip install tensorflow numpy
+pip install tensorflow numpy ,
 python text_generation.py
 
 ## Limitations
